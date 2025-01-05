@@ -1,4 +1,8 @@
 label{
     display: block;
     margin-bottom: 5px;
+    
+}
+fieldset{
+    margin-right: 70%;
 }
