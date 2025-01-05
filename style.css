@@ -6,3 +6,9 @@ label{
 fieldset{
     margin-right: 70%;
 }
+td, th{
+    border: 1px solid black;
+}
+table{
+    border-collapse: collapse ;
+}
